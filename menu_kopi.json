@@ -1,0 +1,27 @@
+[
+{
+    "menu_title":"Latte",
+    "menu_image":"https://asset.kompas.com/crops/Mg6ofi3s7Gh47sgVkOTXn_34EUs=/0x0:0x0/750x500/data/photo/2020/04/16/5e986b693a892.jpeg",
+    "menu_price": 35000,
+    "menu_desc":"Kopi nikmat gak bikin kembung"
+},
+{
+    "menu_title":"Americano",
+    "menu_image":"https://wfxl.com/resources/media/5d8b73f3-d4a3-4e4c-adc1-e0b8ceb09de6-large16x9_coffeeMGNPIXABAY.PNG?1568247151162",
+    "menu_price": 70000,
+    "menu_desc":"Kopi Hitam Legam"
+},
+{
+    "menu_title":"V60",
+    "menu_image":"https://images.theconversation.com/files/126820/original/image-20160615-14016-njqw65.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=926&fit=clip",
+    "menu_price": 45000 ,
+    "menu_desc":"Kopi Cair Pahit"
+},
+{
+    "menu_title":"Kopi Tubruk",
+    "menu_image":"https://www.mldspot.com/sites/default/files/field/image/KopiTubruk.jpg",
+    "menu_price": 6000,
+    "menu_desc":"Kopi Ampas"
+}
+
+]

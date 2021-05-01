@@ -1,0 +1,21 @@
+[{
+    "menu_title":"Es Teh",
+    "menu_image":"https://asset.kompas.com/crops/OEZLF206mGcKKUfmkrMP4CGNGmg=/0x0:1000x667/750x500/data/photo/2020/05/18/5ec2485195aca.jpg",
+    "menu_price": 50000,
+    "menu_desc":"Teh dingin bikin merinding"
+},
+
+{
+    "menu_title":"Teh Sariwangi",
+    "menu_image":"https://i0.wp.com/cdn-prod.medicalnewstoday.com/content/images/articles/324/324771/close-up-of-a-cup-of-tea.jpg?w=1155&h=1541",
+    "menu_price": 6000 ,
+    "menu_desc":"Teh Rumahan Biasa"
+},
+{
+    "menu_title":"Green Tea",
+    "menu_image":"http://www.isitunhealthy.com/wp-content/uploads/2020/01/Green-Tea2.jpg",
+    "menu_price": 12000,
+    "menu_desc":"Teh Hijau Rerumputan"
+}
+
+]

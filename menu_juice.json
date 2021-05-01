@@ -1,0 +1,15 @@
+[
+{
+    "menu_title":"Jus Jeruk",
+    "menu_image":"https://images.unsplash.com/photo-1549128247-37e905ebdb3f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80",
+    "menu_price":6000 ,
+    "menu_desc":"Jeruk dingin nikmat"
+},
+{
+    "menu_title":"Jus Semangka",
+    "menu_image":"https://www.veggieinspired.com/wp-content/uploads/2018/07/watermelon-juice-5.jpg",
+    "menu_price": 18000,
+    "menu_desc":"Jus Semangka salah sangka"
+}
+
+]
